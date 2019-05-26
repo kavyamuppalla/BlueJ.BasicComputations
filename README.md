@@ -6,7 +6,7 @@
 3. Hexadecimal
 
 
-# Normalize Angle
+#  Angle
 * Write a program that reads an integer angle (which may be positive or negative) and normalizes it to a value between 0 and 359 degrees. Try it first with the % operator, then with floorMod.
 
 
